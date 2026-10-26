@@ -1,1 +1,1 @@
-Cart items: Rice, Milk, Bread
+Cart items: Rice, Milk, Bread, Eggs
